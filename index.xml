@@ -9,9 +9,185 @@
     <description>Recent content in Welcome on Harish Kumar Sadasivam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://harishkumarsadasivam.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://harishkumarsadasivam.github.io/about/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://harishkumarsadasivam.github.io/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;p&gt;Hi! 👋🏽 I’m &lt;strong&gt;Harish Kumar Sadasivam&lt;/strong&gt;, a graduate with a Master of Science in Health Informatics from Indiana University Indianapolis and a Doctor of Pharmacy (Pharm.D) from Rajiv Gandhi University of Health Sciences. My journey bridges clinical experience and a strong foundation in data science — with a mission to improve healthcare through technology.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-my-focus&#34;&gt;
+  🧠 My Focus
+  &lt;a href=&#34;#-my-focus&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;I specialize in applying data analytics, machine learning, and EMR system design to real-world healthcare problems. My work blends medical knowledge with data engineering to support:&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://harishkumarsadasivam.github.io/connect/connect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://harishkumarsadasivam.github.io/connect/connect/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;h2 id=&#34;-connect&#34;&gt;
+  🔗 Connect
+  &lt;a href=&#34;#-connect&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Thank you for visiting my portfolio! I’m always open to connecting with like-minded professionals, collaborators, and organizations working at the intersection of healthcare and data science. Whether you’re interested in discussing opportunities, sharing insights, or working together on impactful healthcare projects—I’d love to hear from you.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-contact-me&#34;&gt;
+  📬 Contact Me
+  &lt;a href=&#34;#-contact-me&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;📧 &lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:sadasivamharishkumar@gmail.com&#34;&gt;sadasivamharishkumar@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📞 &lt;strong&gt;Phone&lt;/strong&gt;: +1 (972)-654-0333&lt;/li&gt;
+&lt;li&gt;🌍 &lt;strong&gt;Location&lt;/strong&gt;: Currently based in the United States (open to remote and hybrid opportunities)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-social-profiles&#34;&gt;
+  🌐 Social Profiles
+  &lt;a href=&#34;#-social-profiles&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;💼 [&lt;strong&gt;LinkedIn&lt;/strong&gt;](&lt;a href=&#34;https://www.linkedin.com/in&#34;&gt;https://www.linkedin.com/in&lt;/a&gt; dr-harish-kumar-sadasivam-61083028b/)&lt;/li&gt;
+&lt;li&gt;🐙 &lt;a href=&#34;https://github.com/harishkumarsadasivam&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📝 &lt;a href=&#34;files/HarishKumarSadasivam_Resume.pdf&#34;&gt;&lt;strong&gt;Resume (PDF)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Feel free to reach out via LinkedIn or email. I’m happy to chat about health informatics, data analytics, AI in healthcare, or any innovative idea you have in mind.&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://harishkumarsadasivam.github.io/experience/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://harishkumarsadasivam.github.io/experience/experience/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;h2 id=&#34;-experience&#34;&gt;
+  💼 Experience
+  &lt;a href=&#34;#-experience&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id=&#34;healthcare-data-analyst&#34;&gt;
+  Healthcare Data Analyst
+  &lt;a href=&#34;#healthcare-data-analyst&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;GTechnologies Pty Ltd&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Aug 2024 – May 2025&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed and deployed a web-based Electronic Medical Records (EMR) system, significantly improving clinical data accessibility by &lt;strong&gt;60%&lt;/strong&gt;. Utilized a full-stack environment with &lt;strong&gt;MySQL&lt;/strong&gt;, &lt;strong&gt;React.js&lt;/strong&gt;, and &lt;strong&gt;Node.js&lt;/strong&gt; for efficient data flow and user interface.&lt;/li&gt;
+&lt;li&gt;Standardized and structured clinical documentation through the implementation of &lt;strong&gt;ICD-11&lt;/strong&gt; coding in patient registration and pathology forms, enhancing record accuracy by &lt;strong&gt;40%&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Optimized the EMR system’s internal search engine and resolved front-end/backend integration challenges, increasing platform efficiency by &lt;strong&gt;50%&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Ensured patient data security, improved user navigation, and enhanced cross-functional interoperability between clinical departments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;research-data-analyst&#34;&gt;
+  Research Data Analyst
+  &lt;a href=&#34;#research-data-analyst&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Indiana University, IU BioHealth Informatics Research Centre&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Sep 2023 – May 2024&lt;/em&gt;&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://harishkumarsadasivam.github.io/project/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://harishkumarsadasivam.github.io/project/projects/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;h2 id=&#34;-projects&#34;&gt;
+  📊 Projects
+  &lt;a href=&#34;#-projects&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id=&#34;relation-between-healthcare-factors-and-health-outcomes&#34;&gt;
+  Relation Between Healthcare Factors and Health Outcomes
+  &lt;a href=&#34;#relation-between-healthcare-factors-and-health-outcomes&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Technologies:&lt;/strong&gt; Python, SQL&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Explored global healthcare datasets to identify key disparities and patterns impacting life expectancy and health outcomes.&lt;/li&gt;
+&lt;li&gt;Connected &lt;strong&gt;SQL with Python&lt;/strong&gt; for data cleaning, integration, and normalization—handling over &lt;strong&gt;1 million rows&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Applied &lt;strong&gt;statistical tests&lt;/strong&gt; (T-Test, Chi-Square) to validate hypotheses and built predictive models using &lt;strong&gt;Random Forest, Gradient Boosting, and Linear Regression&lt;/strong&gt;, achieving up to &lt;strong&gt;92.4% accuracy&lt;/strong&gt; in health outcome prediction.&lt;/li&gt;
+&lt;li&gt;Developed visual dashboards with &lt;strong&gt;Tableau&lt;/strong&gt; and created &lt;strong&gt;heatmaps&lt;/strong&gt; to highlight factor correlations, providing policy-level insights to improve global health outcomes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;pharmacist-participation-in-diabetes-distress-assessment--self-management&#34;&gt;
+  Pharmacist Participation in Diabetes Distress Assessment &amp;amp; Self-Management
+  &lt;a href=&#34;#pharmacist-participation-in-diabetes-distress-assessment--self-management&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Technologies:&lt;/strong&gt; Excel, SPSS, CRF (Case Report Form)&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://harishkumarsadasivam.github.io/resume/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://harishkumarsadasivam.github.io/resume/resume/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;h2 id=&#34;resume&#34;&gt;
+  Resume
+  &lt;a href=&#34;#resume&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+          
+        
+        </description>
+    </item>
     
   </channel>
 </rss>
