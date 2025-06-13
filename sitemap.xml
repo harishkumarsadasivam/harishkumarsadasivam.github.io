@@ -2,10 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://harishkumarsadasivam.github.io/categories/</loc>
-  </url><url>
-    <loc>https://harishkumarsadasivam.github.io/tags/</loc>
+    <loc>https://harishkumarsadasivam.github.io/about/</loc>
+    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://harishkumarsadasivam.github.io/</loc>
+    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harishkumarsadasivam.github.io/connect/connect/</loc>
+  </url><url>
+    <loc>https://harishkumarsadasivam.github.io/experience/experience/</loc>
+  </url><url>
+    <loc>https://harishkumarsadasivam.github.io/project/projects/</loc>
+  </url><url>
+    <loc>https://harishkumarsadasivam.github.io/resume/resume/</loc>
+  </url><url>
+    <loc>https://harishkumarsadasivam.github.io/categories/</loc>
+  </url><url>
+    <loc>https://harishkumarsadasivam.github.io/connect/</loc>
+  </url><url>
+    <loc>https://harishkumarsadasivam.github.io/experience/</loc>
+  </url><url>
+    <loc>https://harishkumarsadasivam.github.io/project/</loc>
+  </url><url>
+    <loc>https://harishkumarsadasivam.github.io/resume/</loc>
+  </url><url>
+    <loc>https://harishkumarsadasivam.github.io/tags/</loc>
   </url>
 </urlset>
