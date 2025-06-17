@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Harish Kumar Sadasivam</title>
+    
+    
+    
+    <link>https://harishkumarsadasivam.github.io/projects/</link>
+    <description>Recent content in Projects on Harish Kumar Sadasivam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://harishkumarsadasivam.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://harishkumarsadasivam.github.io/projects/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://harishkumarsadasivam.github.io/projects/projects/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;h2 id=&#34;-projects&#34;&gt;
+  📊 Projects
+  &lt;a href=&#34;#-projects&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id=&#34;ai-enabled-emr-system-practicum-project&#34;&gt;
+  AI-Enabled EMR System (Practicum Project)
+  &lt;a href=&#34;#ai-enabled-emr-system-practicum-project&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Technologies:&lt;/strong&gt; MySQL, Node.js, React.js, Express.js, HTML, CSS, ICD-11&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Led development of a dynamic &lt;strong&gt;Electronic Medical Records (EMR)&lt;/strong&gt; platform integrating &lt;strong&gt;AI modules&lt;/strong&gt; for clinical workflow optimization.&lt;/li&gt;
+&lt;li&gt;Built structured databases in &lt;strong&gt;MySQL&lt;/strong&gt;, and connected them with interactive front-end forms for patient registration, search, and update using &lt;strong&gt;React.js&lt;/strong&gt; and &lt;strong&gt;Node.js&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Enhanced search accuracy and user accessibility; enabled &lt;strong&gt;ICD-11-based&lt;/strong&gt; documentation for standardization and interoperability.&lt;/li&gt;
+&lt;li&gt;Addressed key system challenges including plugin errors, password compatibility, and PID file issues—improving stability and usability of the EMR system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;clinical-data-analysis-of-hospital-readmissions-and-patient-outcomes&#34;&gt;
+  Clinical Data Analysis of Hospital Readmissions and Patient Outcomes
+  &lt;a href=&#34;#clinical-data-analysis-of-hospital-readmissions-and-patient-outcomes&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Technologies:&lt;/strong&gt; Excel, SQL, Python (Pandas, Seaborn, Matplotlib), UCI Hospital Dataset&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
