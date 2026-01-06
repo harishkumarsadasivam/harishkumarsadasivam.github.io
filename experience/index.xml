@@ -5,20 +5,20 @@
     
     
     
-    <link>https://harishkumarsadasivam.github.io/experience/</link>
+    <link>http://localhost:1313/experience/</link>
     <description>Recent content in Experiences on Harish Kumar Sadasivam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://harishkumarsadasivam.github.io/experience/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://harishkumarsadasivam.github.io/experience/experience/</link>
+      <link>http://localhost:1313/experience/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://harishkumarsadasivam.github.io/experience/experience/</guid>
+      <guid>http://localhost:1313/experience/experience/</guid>
       <description>
         
           
@@ -31,24 +31,13 @@
   💼 Experience
   &lt;a href=&#34;#-experience&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
 &lt;/h2&gt;
-&lt;h3 id=&#34;healthcare-data-analyst&#34;&gt;
-  Healthcare Data Analyst
-  &lt;a href=&#34;#healthcare-data-analyst&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;h3 id=&#34;data-scientist--data-analyst&#34;&gt;
+  &lt;strong&gt;Data Scientist / Data Analyst&lt;/strong&gt;
+  &lt;a href=&#34;#data-scientist--data-analyst&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
 &lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;GTechnologies Pty Ltd&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Aug 2024 – May 2025&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Developed and deployed a web-based Electronic Medical Records (EMR) system, significantly improving clinical data accessibility by &lt;strong&gt;60%&lt;/strong&gt;. Utilized a full-stack environment with &lt;strong&gt;MySQL&lt;/strong&gt;, &lt;strong&gt;React.js&lt;/strong&gt;, and &lt;strong&gt;Node.js&lt;/strong&gt; for efficient data flow and user interface.&lt;/li&gt;
-&lt;li&gt;Standardized and structured clinical documentation through the implementation of &lt;strong&gt;ICD-11&lt;/strong&gt; coding in patient registration and pathology forms, enhancing record accuracy by &lt;strong&gt;40%&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Optimized the EMR system’s internal search engine and resolved front-end/backend integration challenges, increasing platform efficiency by &lt;strong&gt;50%&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Ensured patient data security, improved user navigation, and enhanced cross-functional interoperability between clinical departments.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;research-data-analyst&#34;&gt;
-  Research Data Analyst
-  &lt;a href=&#34;#research-data-analyst&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Indiana University, IU BioHealth Informatics Research Centre&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Sep 2023 – May 2024&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Community Dreams Foundation&lt;/strong&gt; — &lt;em&gt;Aug 2025 – Present&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;At Community Dreams Foundation, I work as a &lt;strong&gt;Data Scientist supporting nonprofit and community health initiatives&lt;/strong&gt;, applying advanced analytics to evaluate program effectiveness, optimize resource allocation, and support evidence-based decision-making for underserved populations.&lt;/p&gt;
+&lt;p&gt;My role focuses on building &lt;strong&gt;scalable analytics pipelines&lt;/strong&gt;, transforming operational and demographic data into actionable insights, and communicating results to program leaders and stakeholders.&lt;/p&gt;
           
         
         </description>

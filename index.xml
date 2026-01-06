@@ -5,47 +5,20 @@
     
     
     
-    <link>https://harishkumarsadasivam.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome on Harish Kumar Sadasivam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://harishkumarsadasivam.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://harishkumarsadasivam.github.io/about/</link>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://harishkumarsadasivam.github.io/about/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          &lt;p&gt;Hi! 👋🏽 I’m &lt;strong&gt;Harish Kumar Sadasivam&lt;/strong&gt;, a graduate with a Master of Science in Health Informatics from Indiana University Indianapolis and a Doctor of Pharmacy (Pharm.D) from Rajiv Gandhi University of Health Sciences. My journey bridges clinical experience and a strong foundation in data science — with a mission to improve healthcare through technology.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;-my-focus&#34;&gt;
-  🧠 My Focus
-  &lt;a href=&#34;#-my-focus&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;I specialize in applying data analytics, machine learning, and EMR system design to real-world healthcare problems. My work blends medical knowledge with data engineering to support:&lt;/p&gt;
-          
-        
-        </description>
-    </item>
     
     <item>
       <title></title>
-      <link>https://harishkumarsadasivam.github.io/connect/connect/</link>
+      <link>http://localhost:1313/connect/connect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://harishkumarsadasivam.github.io/connect/connect/</guid>
+      <guid>http://localhost:1313/connect/connect/</guid>
       <description>
         
           
@@ -58,7 +31,8 @@
   🔗 Connect
   &lt;a href=&#34;#-connect&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;Thank you for visiting my portfolio! I’m always open to connecting with like-minded professionals, collaborators, and organizations working at the intersection of healthcare and data science. Whether you’re interested in discussing opportunities, sharing insights, or working together on impactful healthcare projects—I’d love to hear from you.&lt;/p&gt;
+&lt;p&gt;Thank you for visiting my portfolio. I’m always open to connecting with &lt;strong&gt;data scientists, healthcare professionals, researchers, and organizations&lt;/strong&gt; working at the intersection of &lt;strong&gt;healthcare, analytics, and applied AI&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Whether you’re interested in &lt;strong&gt;collaboration opportunities&lt;/strong&gt;, discussing &lt;strong&gt;healthcare data science or analytics roles&lt;/strong&gt;, or exchanging ideas around &lt;strong&gt;clinical analytics, population health, predictive modeling, or AI-driven healthcare solutions&lt;/strong&gt;, I’d be glad to connect.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;-contact-me&#34;&gt;
   📬 Contact Me
@@ -66,21 +40,21 @@
 &lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;📧 &lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:sadasivamharishkumar@gmail.com&#34;&gt;sadasivamharishkumar@gmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📞 &lt;strong&gt;Phone&lt;/strong&gt;: +1 (972)-654-0333&lt;/li&gt;
-&lt;li&gt;🌍 &lt;strong&gt;Location&lt;/strong&gt;: Currently based in the United States (open to remote and hybrid opportunities)&lt;/li&gt;
+&lt;li&gt;📞 &lt;strong&gt;Phone&lt;/strong&gt;: +1 (972) 654-0333&lt;/li&gt;
+&lt;li&gt;🌍 &lt;strong&gt;Location&lt;/strong&gt;: United States (open to remote and relocation opportunities)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;-social-profiles&#34;&gt;
-  🌐 Social Profiles
-  &lt;a href=&#34;#-social-profiles&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;h3 id=&#34;-professional-profiles&#34;&gt;
+  🌐 Professional Profiles
+  &lt;a href=&#34;#-professional-profiles&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
 &lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;💼 [&lt;strong&gt;LinkedIn&lt;/strong&gt;](&lt;a href=&#34;https://www.linkedin.com/in&#34;&gt;https://www.linkedin.com/in&lt;/a&gt; dr-harish-kumar-sadasivam-61083028b/)&lt;/li&gt;
+&lt;li&gt;💼 &lt;a href=&#34;https://www.linkedin.com/in/dr-harish-kumar-sadasivam-61083028b/&#34;&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;🐙 &lt;a href=&#34;https://github.com/harishkumarsadasivam&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📝 &lt;a href=&#34;files/HarishKumarSadasivam_Resume.pdf&#34;&gt;&lt;strong&gt;Resume (PDF)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;Feel free to reach out via LinkedIn or email. I’m happy to chat about health informatics, data analytics, AI in healthcare, or any innovative idea you have in mind.&lt;/p&gt;
+&lt;p&gt;Feel free to reach out via &lt;strong&gt;LinkedIn or email&lt;/strong&gt;. I’m always happy to discuss &lt;strong&gt;healthcare data science, clinical analytics, health informatics, predictive modeling, or innovative ideas focused on improving patient outcomes and healthcare systems&lt;/strong&gt;.&lt;/p&gt;
           
         
         </description>
@@ -88,10 +62,10 @@
     
     <item>
       <title></title>
-      <link>https://harishkumarsadasivam.github.io/experience/experience/</link>
+      <link>http://localhost:1313/experience/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://harishkumarsadasivam.github.io/experience/experience/</guid>
+      <guid>http://localhost:1313/experience/experience/</guid>
       <description>
         
           
@@ -104,24 +78,13 @@
   💼 Experience
   &lt;a href=&#34;#-experience&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
 &lt;/h2&gt;
-&lt;h3 id=&#34;healthcare-data-analyst&#34;&gt;
-  Healthcare Data Analyst
-  &lt;a href=&#34;#healthcare-data-analyst&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;h3 id=&#34;data-scientist--data-analyst&#34;&gt;
+  &lt;strong&gt;Data Scientist / Data Analyst&lt;/strong&gt;
+  &lt;a href=&#34;#data-scientist--data-analyst&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
 &lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;GTechnologies Pty Ltd&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Aug 2024 – May 2025&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Developed and deployed a web-based Electronic Medical Records (EMR) system, significantly improving clinical data accessibility by &lt;strong&gt;60%&lt;/strong&gt;. Utilized a full-stack environment with &lt;strong&gt;MySQL&lt;/strong&gt;, &lt;strong&gt;React.js&lt;/strong&gt;, and &lt;strong&gt;Node.js&lt;/strong&gt; for efficient data flow and user interface.&lt;/li&gt;
-&lt;li&gt;Standardized and structured clinical documentation through the implementation of &lt;strong&gt;ICD-11&lt;/strong&gt; coding in patient registration and pathology forms, enhancing record accuracy by &lt;strong&gt;40%&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Optimized the EMR system’s internal search engine and resolved front-end/backend integration challenges, increasing platform efficiency by &lt;strong&gt;50%&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Ensured patient data security, improved user navigation, and enhanced cross-functional interoperability between clinical departments.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;research-data-analyst&#34;&gt;
-  Research Data Analyst
-  &lt;a href=&#34;#research-data-analyst&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Indiana University, IU BioHealth Informatics Research Centre&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Sep 2023 – May 2024&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Community Dreams Foundation&lt;/strong&gt; — &lt;em&gt;Aug 2025 – Present&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;At Community Dreams Foundation, I work as a &lt;strong&gt;Data Scientist supporting nonprofit and community health initiatives&lt;/strong&gt;, applying advanced analytics to evaluate program effectiveness, optimize resource allocation, and support evidence-based decision-making for underserved populations.&lt;/p&gt;
+&lt;p&gt;My role focuses on building &lt;strong&gt;scalable analytics pipelines&lt;/strong&gt;, transforming operational and demographic data into actionable insights, and communicating results to program leaders and stakeholders.&lt;/p&gt;
           
         
         </description>
@@ -129,10 +92,10 @@
     
     <item>
       <title></title>
-      <link>https://harishkumarsadasivam.github.io/project/projects/</link>
+      <link>http://localhost:1313/projects/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://harishkumarsadasivam.github.io/project/projects/</guid>
+      <guid>http://localhost:1313/projects/projects/</guid>
       <description>
         
           
@@ -145,33 +108,33 @@
   📊 Projects
   &lt;a href=&#34;#-projects&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
 &lt;/h2&gt;
-&lt;h3 id=&#34;relation-between-healthcare-factors-and-health-outcomes&#34;&gt;
-  Relation Between Healthcare Factors and Health Outcomes
-  &lt;a href=&#34;#relation-between-healthcare-factors-and-health-outcomes&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;h3 id=&#34;-enhancing-healthcare-delivery-through-advanced-emr-integration&#34;&gt;
+  🏥 Enhancing Healthcare Delivery Through Advanced EMR Integration
+  &lt;a href=&#34;#-enhancing-healthcare-delivery-through-advanced-emr-integration&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
 &lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Technologies:&lt;/strong&gt; Python, SQL&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Healthcare Data Scientist / Full-Stack Analytics Developer&lt;br&gt;
+&lt;strong&gt;Technologies:&lt;/strong&gt; MySQL, Node.js, React.js, Express.js, HTML, CSS, ICD-11&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Explored global healthcare datasets to identify key disparities and patterns impacting life expectancy and health outcomes.&lt;/li&gt;
-&lt;li&gt;Connected &lt;strong&gt;SQL with Python&lt;/strong&gt; for data cleaning, integration, and normalization—handling over &lt;strong&gt;1 million rows&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Applied &lt;strong&gt;statistical tests&lt;/strong&gt; (T-Test, Chi-Square) to validate hypotheses and built predictive models using &lt;strong&gt;Random Forest, Gradient Boosting, and Linear Regression&lt;/strong&gt;, achieving up to &lt;strong&gt;92.4% accuracy&lt;/strong&gt; in health outcome prediction.&lt;/li&gt;
-&lt;li&gt;Developed visual dashboards with &lt;strong&gt;Tableau&lt;/strong&gt; and created &lt;strong&gt;heatmaps&lt;/strong&gt; to highlight factor correlations, providing policy-level insights to improve global health outcomes.&lt;/li&gt;
+&lt;li&gt;Designed and developed a &lt;strong&gt;full-stack Electronic Medical Records (EMR) platform&lt;/strong&gt; with a strong focus on &lt;strong&gt;analytics-ready clinical data capture&lt;/strong&gt; and downstream decision support.&lt;/li&gt;
+&lt;li&gt;Built &lt;strong&gt;normalized relational databases in MySQL&lt;/strong&gt; and engineered structured schemas to support patient registration, pathology records, medication history, and longitudinal analysis.&lt;/li&gt;
+&lt;li&gt;Developed interactive front-end workflows using &lt;strong&gt;React.js&lt;/strong&gt; and &lt;strong&gt;Node.js&lt;/strong&gt;, enabling real-time data entry, search, updates, and cohort-style patient retrieval.&lt;/li&gt;
+&lt;li&gt;Implemented &lt;strong&gt;ICD-11–aligned clinical documentation&lt;/strong&gt;, improving standardization, interoperability, and readiness for analytics and reporting.&lt;/li&gt;
+&lt;li&gt;Optimized internal search logic and query performance, significantly improving &lt;strong&gt;data retrieval accuracy and system responsiveness&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Diagnosed and resolved backend system issues (plugin errors, authentication compatibility, PID file failures), improving &lt;strong&gt;platform stability, reliability, and usability&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Laid the foundation for &lt;strong&gt;AI-enabled modules&lt;/strong&gt; by structuring clean, high-quality clinical datasets suitable for future predictive modeling and population health analytics.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;pharmacist-participation-in-diabetes-distress-assessment--self-management&#34;&gt;
-  Pharmacist Participation in Diabetes Distress Assessment &amp;amp; Self-Management
-  &lt;a href=&#34;#pharmacist-participation-in-diabetes-distress-assessment--self-management&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Technologies:&lt;/strong&gt; Excel, SPSS, CRF (Case Report Form)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Data Science Focus:&lt;/strong&gt;&lt;/p&gt;
           
         
         </description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://harishkumarsadasivam.github.io/resume/resume/</link>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://harishkumarsadasivam.github.io/resume/resume/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>
         
           
@@ -180,10 +143,44 @@
         
         
         
-          &lt;h2 id=&#34;resume&#34;&gt;
-  Resume
-  &lt;a href=&#34;#resume&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
+          &lt;p&gt;Hi, I’m &lt;strong&gt;Dr. Harish Kumar Sadasivam (PharmD, MS in Health Informatics)&lt;/strong&gt; - a &lt;strong&gt;Healthcare Data Scientist&lt;/strong&gt; 🧠📊 with a strong clinical foundation and hands-on experience designing data-driven solutions across &lt;strong&gt;clinical, research, nonprofit, and operational healthcare domains&lt;/strong&gt; 🏥.&lt;/p&gt;
+&lt;p&gt;I work at the intersection of &lt;strong&gt;clinical expertise, data science, and healthcare systems&lt;/strong&gt;, transforming complex healthcare data into &lt;strong&gt;predictive insights, scalable analytics pipelines, and decision-support tools&lt;/strong&gt; that improve patient outcomes, operational efficiency, and data-informed decision-making.&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resume/resume/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;main class=&#34;post&#34; style=&#34;max-width: 800px; margin: 0 auto; padding: 2rem 1rem;&#34;&gt;
+&lt;h1&gt;📄 Download Resume (PDF)&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a href=&#34;http://localhost:1313/resume/Harish_Kumar_Sadasivam_Resume.pdf&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold; text-decoration: underline;&#34;&gt;
+    Click here to download
+  &lt;/a&gt;
+&lt;/p&gt;
+&lt;h2&gt;👨‍⚕️ Professional Summary&lt;/h2&gt;
+&lt;p&gt;
+Healthcare Data Scientist with a Master’s degree in Health Informatics (Indiana University) and a Doctor of Pharmacy (Pharm.D) background.
+Experienced in designing analytics-ready clinical systems, building end-to-end data pipelines, and applying statistical and predictive
+methods to real-world healthcare and population health problems.
+&lt;/p&gt;
+&lt;p&gt;
+Strong expertise in SQL, Python, Power BI, and healthcare data standards (ICD-11, HL7, FHIR), with hands-on experience across EMR systems,
+claims data, population health analytics, and nonprofit community health initiatives.
+&lt;/p&gt;
           
         
         </description>

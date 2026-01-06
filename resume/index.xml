@@ -5,20 +5,20 @@
     
     
     
-    <link>https://harishkumarsadasivam.github.io/resume/</link>
+    <link>http://localhost:1313/resume/</link>
     <description>Recent content in Resumes on Harish Kumar Sadasivam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://harishkumarsadasivam.github.io/resume/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/resume/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://harishkumarsadasivam.github.io/resume/resume/</link>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://harishkumarsadasivam.github.io/resume/resume/</guid>
+      <guid>http://localhost:1313/resume/resume/</guid>
       <description>
         
           
@@ -27,10 +27,23 @@
         
         
         
-          &lt;h2 id=&#34;resume&#34;&gt;
-  Resume
-  &lt;a href=&#34;#resume&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
+          &lt;main class=&#34;post&#34; style=&#34;max-width: 800px; margin: 0 auto; padding: 2rem 1rem;&#34;&gt;
+&lt;h1&gt;📄 Download Resume (PDF)&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a href=&#34;http://localhost:1313/resume/Harish_Kumar_Sadasivam_Resume.pdf&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold; text-decoration: underline;&#34;&gt;
+    Click here to download
+  &lt;/a&gt;
+&lt;/p&gt;
+&lt;h2&gt;👨‍⚕️ Professional Summary&lt;/h2&gt;
+&lt;p&gt;
+Healthcare Data Scientist with a Master’s degree in Health Informatics (Indiana University) and a Doctor of Pharmacy (Pharm.D) background.
+Experienced in designing analytics-ready clinical systems, building end-to-end data pipelines, and applying statistical and predictive
+methods to real-world healthcare and population health problems.
+&lt;/p&gt;
+&lt;p&gt;
+Strong expertise in SQL, Python, Power BI, and healthcare data standards (ICD-11, HL7, FHIR), with hands-on experience across EMR systems,
+claims data, population health analytics, and nonprofit community health initiatives.
+&lt;/p&gt;
           
         
         </description>

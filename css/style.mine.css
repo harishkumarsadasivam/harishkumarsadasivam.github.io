@@ -1,0 +1,71 @@
+body {
+  background: #fff;
+  color: #2e2e2e;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: #007acc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+header.header {
+  background-color: #f7f7f7;
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #ddd;
+}
+.logo {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.logo__text {
+  font-family: 'Inter', sans-serif;
+}
+nav.menu {
+  margin-top: 1rem;
+}
+.menu__inner {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+main.post {
+  padding-top: 0.5rem;
+}
+footer.footer {
+  padding: 2rem 0;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #888;
+  border-top: 1px solid #eee;
+  margin-top: 3rem;
+}
+.wave {
+  display: inline-block;
+  animation: wave-animation 2.5s infinite;
+  transform-origin: 70% 70%;
+}
+@keyframes wave-animation {
+  0% { transform: rotate(0.0deg); }
+  10% { transform: rotate(14.0deg); }
+  20% { transform: rotate(-8.0deg); }
+  30% { transform: rotate(14.0deg); }
+  40% { transform: rotate(-4.0deg); }
+  50% { transform: rotate(10.0deg); }
+  60% { transform: rotate(0.0deg); }
+  100% { transform: rotate(0.0deg); }
+}
+

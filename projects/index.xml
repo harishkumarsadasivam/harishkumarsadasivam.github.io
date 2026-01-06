@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Harish Kumar Sadasivam</title>
+    
+    
+    
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Harish Kumar Sadasivam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/projects/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;h2 id=&#34;-projects&#34;&gt;
+  📊 Projects
+  &lt;a href=&#34;#-projects&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id=&#34;-enhancing-healthcare-delivery-through-advanced-emr-integration&#34;&gt;
+  🏥 Enhancing Healthcare Delivery Through Advanced EMR Integration
+  &lt;a href=&#34;#-enhancing-healthcare-delivery-through-advanced-emr-integration&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Healthcare Data Scientist / Full-Stack Analytics Developer&lt;br&gt;
+&lt;strong&gt;Technologies:&lt;/strong&gt; MySQL, Node.js, React.js, Express.js, HTML, CSS, ICD-11&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and developed a &lt;strong&gt;full-stack Electronic Medical Records (EMR) platform&lt;/strong&gt; with a strong focus on &lt;strong&gt;analytics-ready clinical data capture&lt;/strong&gt; and downstream decision support.&lt;/li&gt;
+&lt;li&gt;Built &lt;strong&gt;normalized relational databases in MySQL&lt;/strong&gt; and engineered structured schemas to support patient registration, pathology records, medication history, and longitudinal analysis.&lt;/li&gt;
+&lt;li&gt;Developed interactive front-end workflows using &lt;strong&gt;React.js&lt;/strong&gt; and &lt;strong&gt;Node.js&lt;/strong&gt;, enabling real-time data entry, search, updates, and cohort-style patient retrieval.&lt;/li&gt;
+&lt;li&gt;Implemented &lt;strong&gt;ICD-11–aligned clinical documentation&lt;/strong&gt;, improving standardization, interoperability, and readiness for analytics and reporting.&lt;/li&gt;
+&lt;li&gt;Optimized internal search logic and query performance, significantly improving &lt;strong&gt;data retrieval accuracy and system responsiveness&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Diagnosed and resolved backend system issues (plugin errors, authentication compatibility, PID file failures), improving &lt;strong&gt;platform stability, reliability, and usability&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Laid the foundation for &lt;strong&gt;AI-enabled modules&lt;/strong&gt; by structuring clean, high-quality clinical datasets suitable for future predictive modeling and population health analytics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Data Science Focus:&lt;/strong&gt;&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
